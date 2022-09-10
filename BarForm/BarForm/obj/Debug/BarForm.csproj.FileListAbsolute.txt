@@ -1,0 +1,10 @@
+C:\Users\Yathish\Desktop\LivePROJECTS\BarForm\BarForm\bin\Debug\BarForm.exe.config
+C:\Users\Yathish\Desktop\LivePROJECTS\BarForm\BarForm\bin\Debug\BarForm.exe
+C:\Users\Yathish\Desktop\LivePROJECTS\BarForm\BarForm\bin\Debug\BarForm.pdb
+C:\Users\Yathish\Desktop\LivePROJECTS\BarForm\BarForm\obj\Debug\BarForm.csprojAssemblyReference.cache
+C:\Users\Yathish\Desktop\LivePROJECTS\BarForm\BarForm\obj\Debug\BarForm.Form1.resources
+C:\Users\Yathish\Desktop\LivePROJECTS\BarForm\BarForm\obj\Debug\BarForm.Properties.Resources.resources
+C:\Users\Yathish\Desktop\LivePROJECTS\BarForm\BarForm\obj\Debug\BarForm.csproj.GenerateResource.cache
+C:\Users\Yathish\Desktop\LivePROJECTS\BarForm\BarForm\obj\Debug\BarForm.csproj.CoreCompileInputs.cache
+C:\Users\Yathish\Desktop\LivePROJECTS\BarForm\BarForm\obj\Debug\BarForm.exe
+C:\Users\Yathish\Desktop\LivePROJECTS\BarForm\BarForm\obj\Debug\BarForm.pdb
